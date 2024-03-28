@@ -2,7 +2,7 @@
   "name": "wallet-gn",
   "version": "0.0.1",
   "description": "Simple BIP39 Ethereum Address Generator",
-  "author": "bling.huang666",
+  "author": "bling666-huang",
   "license": "MIT",
   "scripts": {
     "start": "node wallet-generate.js"
