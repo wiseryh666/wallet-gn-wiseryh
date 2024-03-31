@@ -1,8 +1,8 @@
 {
-  "name": "wallet-gn",
+  "name": "wallet-gn-wiseryh",
   "version": "0.0.1",
   "description": "Simple BIP39 Ethereum Address Generator",
-  "author": "bling666-huang",
+  "author": "wiseryh666",
   "license": "MIT",
   "scripts": {
     "start": "node wallet-generate.js"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bling666-huang/wallet-gn.git"
+    "url": "git+https://github.com/wiseryh666/wallet-gn-wiseryh.git"
   },
   "keywords": [
     "cryptocurrency",
